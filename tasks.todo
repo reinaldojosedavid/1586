@@ -1,0 +1,136 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1699800100159,
+        "children": [
+          {
+            "key": 1699800208311,
+            "children": [],
+            "todo": {
+              "content": "vehicles and spare parts",
+              "id": 1699800208311,
+              "level": "default",
+              "done": true,
+              "start": 1699800208311,
+              "focus": false,
+              "end": 1699918355258
+            }
+          },
+          {
+            "key": 1699800323767,
+            "children": [],
+            "todo": {
+              "content": "Clients",
+              "id": 1699800323767,
+              "level": "default",
+              "done": true,
+              "start": 1699800323767,
+              "focus": false,
+              "end": 1699918353058
+            }
+          },
+          {
+            "key": 1699800333903,
+            "children": [],
+            "todo": {
+              "content": "auto mechanic",
+              "id": 1699800333903,
+              "level": "default",
+              "done": true,
+              "start": 1699800333903,
+              "focus": false,
+              "end": 1700423252978
+            }
+          },
+          {
+            "key": 1699800448591,
+            "children": [],
+            "todo": {
+              "content": "Description, Image, brand, model, type, year, classification",
+              "id": 1699800448591,
+              "level": "default",
+              "done": true,
+              "start": 1699800448591,
+              "focus": false,
+              "end": 1700423257986
+            }
+          },
+          {
+            "key": 1699800497894,
+            "children": [],
+            "todo": {
+              "content": "Auto part assigned or changed",
+              "id": 1699800497894,
+              "level": "default",
+              "done": true,
+              "start": 1699800497894,
+              "focus": false,
+              "end": 1700423260674
+            }
+          },
+          {
+            "key": 1699800512910,
+            "children": [],
+            "todo": {
+              "content": "Others...",
+              "id": 1699800512910,
+              "level": "default",
+              "done": true,
+              "start": 1699800512910,
+              "focus": false,
+              "end": 1700423261762
+            }
+          },
+          {
+            "key": 1699800597895,
+            "children": [],
+            "todo": {
+              "content": "Must generate pdf reports",
+              "id": 1699800597895,
+              "level": "default",
+              "done": false,
+              "start": 1699800597895
+            }
+          },
+          {
+            "key": 1699800625679,
+            "children": [],
+            "todo": {
+              "content": "Bar code or qr code",
+              "id": 1699800625679,
+              "level": "default",
+              "done": true,
+              "start": 1699800625679,
+              "focus": false,
+              "end": 1700423264954
+            }
+          }
+        ],
+        "todo": {
+          "content": "Inventory",
+          "id": 1699800100159,
+          "level": "default",
+          "done": true,
+          "start": 1699800100159,
+          "focus": false,
+          "end": 1699918347104
+        }
+      }
+    ],
+    "expandKeys": [
+      1699800100159
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 24,
+    "title": "tasks",
+    "autoSort": false,
+    "showEndTime": false,
+    "simpleMode": false,
+    "lang": "en",
+    "version": "1700423265011"
+  }
+}
